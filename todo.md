@@ -1,0 +1,6 @@
+- [ ] Image ou video Poppy-Vrep
+- [ ] Convert .m4v, .mov videos
+- [ ] To fix: long videos are vey slow to load
+- [ ] Images scipy et autres (Éco-système de bibliothèque scientifique). Plus généralement : illustrer ce slide
+- [ ] logo Pypot (/Explauto)
+- [ ] Même code pour controlé le vrai robot ou la simulation. 1 seule ligne à changer --> fournir le code
