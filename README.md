@@ -6,6 +6,7 @@ To show the presentation:
 * cd in the repo, then run:
     ```
     git submodule init
+    
     git submodule update
     ```
 This will clone the reveal.js repo as a submodule
