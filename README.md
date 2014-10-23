@@ -2,6 +2,13 @@ Files for our participation at [PyconFR, Lyon, oct 2014](http://www.pycon.fr/201
 
 To show the presentation:
 
+* clone this repo
+* cd in the repo, then run:
+    ```
+    git submodule init
+    git submodule update
+    ```
+This will clone the reveal.js repo as a submodule
 * copy the videos in talk/vid
 * From the repository root, run:
     ```
