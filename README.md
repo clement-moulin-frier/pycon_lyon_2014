@@ -9,6 +9,8 @@ To show the presentation:
     git submodule update
     ```
 This will clone the reveal.js repo as a submodule
+* Bootstrap
+* jquery
 * copy the videos in talk/vid
 * From the repository root, run:
     ```
