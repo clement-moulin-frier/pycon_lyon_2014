@@ -1,3 +1,6 @@
 [submodule "revealjs"]
 	path = revealjs
 	url = https://github.com/hakimel/reveal.js
+[submodule "responsive-video"]
+	path = responsive-video
+	url = git@gist.github.com:/2302238.git
